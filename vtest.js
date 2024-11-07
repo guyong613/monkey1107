@@ -7,7 +7,6 @@
 // @match        https://www.baidu.com/*
 // @grant        none
 // ==/UserScript==
-
 (function() {
     'use strict';
     console.log('Guy TEST GREASY!');
